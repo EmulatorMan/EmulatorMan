@@ -1,3 +1,1 @@
 git clone https://github.com/EmulatorMan/EmulatorMan.github.io
-cd EmulatorMan.github.io
-echo "Hello World" > index.html
